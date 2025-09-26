@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\DeepTrace\\donut-master\\model_save\\variables.dat"
+all_model_checkpoint_paths: "C:\\DeepTrace\\donut-master\\model_save\\variables.dat"
