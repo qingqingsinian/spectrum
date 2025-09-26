@@ -1,0 +1,807 @@
+
+
+
+2025-09-17 21:14:03
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 256
+d_model: 256
+data_path: PSM
+dataset: PSM
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 25
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 25
+patch_size: [1, 3, 5]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+
+
+
+2025-09-17 21:16:40
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 256
+d_model: 256
+data_path: PSM
+dataset: PSM
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 25
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 25
+patch_size: [1, 3, 5]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+
+
+
+2025-09-17 21:19:48
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 256
+d_model: 256
+data_path: PSM
+dataset: PSM
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 25
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 25
+patch_size: [1, 3, 5]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+
+
+
+2025-09-17 21:32:29
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 256
+d_model: 256
+data_path: PSM
+dataset: PSM
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 25
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 25
+patch_size: [1, 3, 5]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+	speed: 13.7633s/iter; left time: 19984.3463s
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+sdfafsad
+
+
+
+2025-09-20 11:08:07
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 256
+d_model: 256
+data_path: PSM
+dataset: PSM
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 25
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 25
+patch_size: [1, 3, 5]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+tensor(3.2083, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.2083, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.2421, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.2421, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.3104, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.3104, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.3723, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.3723, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.4370, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.4370, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.5174, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.5174, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.6161, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.6161, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.6924, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.6924, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.7743, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.7743, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.8848, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.8848, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(3.9150, device='cuda:0', grad_fn=<DivBackward0>) tensor(3.9150, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.0237, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.0237, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.0845, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.0845, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.1982, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.1982, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.2538, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.2538, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.3381, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.3381, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.4278, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.4278, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.4519, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.4519, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.5297, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.5297, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.5937, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.5937, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.6510, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.6510, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.7405, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.7405, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.7899, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.7899, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.8330, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.8330, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.9613, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.9613, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(4.9787, device='cuda:0', grad_fn=<DivBackward0>) tensor(4.9787, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.0342, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.0342, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.1043, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.1043, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.1703, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.1703, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.2657, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.2657, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.2510, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.2510, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.3447, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.3447, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.3682, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.3682, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.4564, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.4564, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.5491, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.5491, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.5589, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.5589, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.6438, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.6438, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.6743, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.6743, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.7202, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.7202, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.7775, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.7775, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.8151, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.8151, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.8644, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.8644, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.9447, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.9447, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(5.9796, device='cuda:0', grad_fn=<DivBackward0>) tensor(5.9796, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.0844, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.0844, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.0989, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.0989, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.0905, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.0905, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.2152, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.2152, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.2467, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.2467, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.2728, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.2728, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.3018, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.3018, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.4244, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.4244, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.4537, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.4537, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.4835, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.4835, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.4988, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.4988, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.5878, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.5878, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.6374, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.6374, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.6517, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.6517, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.6569, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.6569, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.7544, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.7544, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.7387, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.7387, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.8289, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.8289, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.8566, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.8566, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.8842, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.8842, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.9280, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.9280, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(6.9965, device='cuda:0', grad_fn=<DivBackward0>) tensor(6.9965, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.0038, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.0038, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.0165, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.0165, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.1006, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.1006, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.0975, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.0975, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.1616, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.1616, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.1697, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.1697, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.2221, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.2221, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.2798, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.2798, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.2856, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.2856, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.3588, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.3588, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.4242, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.4242, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.4496, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.4496, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.4859, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.4859, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.5414, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.5414, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.4712, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.4712, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.5790, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.5790, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.5942, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.5942, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.5517, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.5517, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.6862, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.6862, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.7195, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.7195, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.7038, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.7038, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.7195, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.7195, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.7527, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.7527, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.7734, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.7734, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.7884, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.7884, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.7884, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.7884, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.9010, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.9010, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.8841, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.8841, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.9109, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.9109, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(7.9818, device='cuda:0', grad_fn=<DivBackward0>) tensor(7.9818, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.0299, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.0299, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.0273, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.0273, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.0214, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.0214, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.0302, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.0302, device='cuda:0', grad_fn=<DivBackward0>)
+	speed: 14.6420s/iter; left time: 21260.2255s
+tensor(8.1186, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.1186, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.1255, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.1255, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.1434, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.1434, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.1835, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.1835, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.2048, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.2048, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.2858, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.2858, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.3193, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.3193, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.2725, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.2725, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.3380, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.3380, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.3158, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.3158, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.4400, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.4400, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.4330, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.4330, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.4705, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.4705, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.4633, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.4633, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.5182, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.5182, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.5729, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.5729, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.5692, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.5692, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.5895, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.5895, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.5994, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.5994, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.6447, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.6447, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.7858, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.7858, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.7249, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.7249, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.7993, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.7993, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.7957, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.7957, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.8130, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.8130, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.9003, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.9003, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.9609, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.9609, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.8991, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.8991, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.9871, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.9871, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(8.9959, device='cuda:0', grad_fn=<DivBackward0>) tensor(8.9959, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.0012, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.0012, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.0248, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.0248, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.1111, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.1111, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.1371, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.1371, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.0783, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.0783, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.1846, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.1846, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.2452, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.2452, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.2529, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.2529, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.2782, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.2782, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.2877, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.2877, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.3347, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.3347, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.3971, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.3971, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.4685, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.4685, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.4490, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.4490, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.4765, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.4765, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.5632, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.5632, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.5277, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.5277, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.6176, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.6176, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.6668, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.6668, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.6121, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.6121, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.6725, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.6725, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.6917, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.6917, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.7067, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.7067, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.7494, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.7494, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.7846, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.7846, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.7318, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.7318, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.8384, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.8384, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.8244, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.8244, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.8875, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.8875, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.8922, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.8922, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.9446, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.9446, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.9753, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.9753, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(9.9718, device='cuda:0', grad_fn=<DivBackward0>) tensor(9.9718, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.0324, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.0324, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.0592, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.0592, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.0209, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.0209, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.0877, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.0877, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.1146, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.1146, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.1221, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.1221, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.0959, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.0959, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.1321, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.1321, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.1189, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.1189, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.2212, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.2212, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.2150, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.2150, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.1893, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.1893, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.2348, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.2348, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.2801, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.2801, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.2085, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.2085, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.2611, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.2611, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.2858, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.2858, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.3179, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.3179, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.3009, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.3009, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.3130, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.3130, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.3320, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.3320, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.3379, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.3379, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.3955, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.3955, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.3946, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.3946, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.4511, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.4511, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.5185, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.5185, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.4111, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.4111, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.4499, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.4499, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.4717, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.4717, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.4849, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.4849, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.4907, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.4907, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.5377, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.5377, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.5190, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.5190, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.4964, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.4964, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.5682, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.5682, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.5734, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.5734, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.6020, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.6020, device='cuda:0', grad_fn=<DivBackward0>)
+	speed: 14.4005s/iter; left time: 19469.4772s
+tensor(10.6443, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.6443, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.6669, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.6669, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.6672, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.6672, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.6522, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.6522, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.7105, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.7105, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.7156, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.7156, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.7062, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.7062, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.6960, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.6960, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.7293, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.7293, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.7338, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.7338, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.7454, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.7454, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.7886, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.7886, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.8103, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.8103, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.8095, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.8095, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.9051, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.9051, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.8937, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.8937, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.8751, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.8751, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.8991, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.8991, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.9490, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.9490, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.9578, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.9578, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.9625, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.9625, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.9956, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.9956, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(10.9830, device='cuda:0', grad_fn=<DivBackward0>) tensor(10.9830, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.0360, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.0360, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.0283, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.0283, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.0197, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.0197, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.0477, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.0477, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.0853, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.0853, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.0662, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.0662, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.1422, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.1422, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.1403, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.1403, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.1523, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.1523, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.1806, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.1806, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.1842, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.1842, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.2207, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.2207, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.2123, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.2123, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.2551, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.2551, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.2326, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.2326, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.3188, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.3188, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.2938, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.2938, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.3563, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.3563, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.3973, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.3973, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.4264, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.4264, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.4407, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.4407, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.4902, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.4902, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.5159, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.5159, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.5353, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.5353, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.5461, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.5461, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.6281, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.6281, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.6481, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.6481, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.6769, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.6769, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.6594, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.6594, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.6762, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.6762, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.7417, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.7417, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.7483, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.7483, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.7196, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.7196, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.8190, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.8190, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.8243, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.8243, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.7804, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.7804, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.8501, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.8501, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.8564, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.8564, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.8948, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.8948, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.9367, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.9367, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.9285, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.9285, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.9453, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.9453, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.9559, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.9559, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.9991, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.9991, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.0312, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.0312, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(11.9923, device='cuda:0', grad_fn=<DivBackward0>) tensor(11.9923, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.0314, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.0314, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.0172, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.0172, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.0529, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.0529, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.1016, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.1016, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.1182, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.1182, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.1447, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.1447, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.1499, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.1499, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.1815, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.1815, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.2293, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.2293, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.2234, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.2234, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.2428, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.2428, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.2471, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.2471, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.2868, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.2868, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.3092, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.3092, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.3163, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.3163, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.3453, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.3453, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.3661, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.3661, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.3788, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.3788, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.3829, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.3829, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.4712, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.4712, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.4462, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.4462, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.4837, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.4837, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.4843, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.4843, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.5241, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.5241, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.5853, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.5853, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.5635, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.5635, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.5624, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.5624, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.6368, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.6368, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.6449, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.6449, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.6620, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.6620, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.7274, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.7274, device='cuda:0', grad_fn=<DivBackward0>)
+	speed: 14.2093s/iter; left time: 17790.0991s
+tensor(12.7419, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.7419, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.7408, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.7408, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.7619, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.7619, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.8472, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.8472, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.8571, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.8571, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.8983, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.8983, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.9475, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.9475, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.9190, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.9190, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.9623, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.9623, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(12.9780, device='cuda:0', grad_fn=<DivBackward0>) tensor(12.9780, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.0430, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.0430, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.0606, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.0606, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.0756, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.0756, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.1530, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.1530, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.1546, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.1546, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.2537, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.2537, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.2710, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.2710, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.2715, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.2715, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.3111, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.3111, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.3778, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.3778, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.3986, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.3986, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.4251, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.4251, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.4850, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.4850, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.5662, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.5662, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.5692, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.5692, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.5913, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.5913, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.6726, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.6726, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.6820, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.6820, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.7133, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.7133, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.7837, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.7837, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.7835, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.7835, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.7892, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.7892, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.8246, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.8246, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.8753, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.8753, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.8692, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.8692, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.9495, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.9495, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.9857, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.9857, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(13.9795, device='cuda:0', grad_fn=<DivBackward0>) tensor(13.9795, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.0298, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.0298, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.0554, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.0554, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.1190, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.1190, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.1166, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.1166, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.1488, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.1488, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.1702, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.1702, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.2027, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.2027, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.2249, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.2249, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.2709, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.2709, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.3280, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.3280, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.3263, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.3263, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.3692, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.3692, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.3791, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.3791, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.3992, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.3992, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.4294, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.4294, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.4035, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.4035, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.4641, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.4641, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.4748, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.4748, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.4694, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.4694, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.4825, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.4825, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5160, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.5160, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5562, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.5562, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5549, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.5549, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5228, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.5228, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5893, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.5893, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5580, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.5580, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5810, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.5810, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5661, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.5661, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6077, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6077, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.5924, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.5924, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6444, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6444, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6611, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6611, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6329, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6329, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6269, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6269, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6567, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6567, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6483, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6483, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6469, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6469, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6808, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6808, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6973, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6973, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6731, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6731, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6964, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6964, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6723, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6723, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7097, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7097, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6674, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6674, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.6974, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.6974, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7557, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7557, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7058, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7058, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7263, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7263, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7415, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7415, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7231, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7231, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7407, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7407, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7639, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7639, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7423, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7423, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7621, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7621, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7740, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7740, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7580, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7580, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7646, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7646, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8106, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8106, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7916, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7916, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7887, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7887, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7826, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7826, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8052, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8052, device='cuda:0', grad_fn=<DivBackward0>)
+	speed: 14.2792s/iter; left time: 16449.6428s
+tensor(14.7982, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7982, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7887, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7887, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7930, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7930, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8228, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8228, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8076, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8076, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8029, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8029, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7892, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7892, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8080, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8080, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.7885, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.7885, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8010, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8010, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8103, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8103, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8493, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8493, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8309, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8309, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8328, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8328, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8132, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8132, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8500, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8500, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8529, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8529, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8466, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8466, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8279, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8279, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8610, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8610, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8753, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8753, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8468, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8468, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8583, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8583, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8774, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8774, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8613, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8613, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8578, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8578, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8462, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8462, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8806, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8806, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8717, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8717, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8573, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8573, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8699, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8699, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9012, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9012, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8572, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8572, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8846, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8846, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9073, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9073, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8796, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8796, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8837, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8837, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9042, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9042, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8788, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8788, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8772, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8772, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8618, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8618, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9063, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9063, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9233, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9233, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9036, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9036, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9249, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9249, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9160, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9160, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9058, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9058, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9113, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9113, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9290, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9290, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9099, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9099, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9183, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9183, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8936, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8936, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9199, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9199, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9340, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9340, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8932, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8932, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9476, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9476, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9313, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9313, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9351, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9351, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9736, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9736, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.8987, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.8987, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9419, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9419, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9447, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9447, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9572, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9572, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9617, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9617, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9666, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9666, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9518, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9518, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9421, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9421, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9479, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9479, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9514, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9514, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9605, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9605, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9651, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9651, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9440, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9440, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9903, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9903, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9606, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9606, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9883, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9883, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9845, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9845, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9601, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9601, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0022, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0022, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9787, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9787, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9720, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9720, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9523, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9523, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0292, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0292, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0118, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0118, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0006, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0006, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9685, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9685, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9855, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9855, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9771, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9771, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9972, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9972, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0047, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0047, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9703, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9703, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9868, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9868, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9725, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9725, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0218, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0218, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9833, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9833, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0096, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0096, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9773, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9773, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9973, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9973, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9871, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9871, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9983, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9983, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0212, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0212, device='cuda:0', grad_fn=<DivBackward0>)
+	speed: 14.2958s/iter; left time: 15039.1907s
+tensor(15.0050, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0050, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(14.9946, device='cuda:0', grad_fn=<DivBackward0>) tensor(14.9946, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0245, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0245, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(15.0350, device='cuda:0', grad_fn=<DivBackward0>) tensor(15.0350, device='cuda:0', grad_fn=<DivBackward0>)

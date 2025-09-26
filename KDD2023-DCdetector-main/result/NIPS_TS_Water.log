@@ -1,0 +1,95 @@
+
+
+
+2025-09-18 15:43:13
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 256
+d_model: 256
+data_path: NIPS_TS_Water
+dataset: NIPS_TS_Water
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 9
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 9
+patch_size: [1, 3, 5]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+
+
+
+2025-09-18 15:44:07
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 256
+d_model: 256
+data_path: NIPS_TS_Water
+dataset: NIPS_TS_Water
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 9
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 9
+patch_size: [1, 3, 5]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+test: (69261, 9)
+train: (69260, 9)
+test: (69261, 9)
+train: (69260, 9)
+test: (69261, 9)
+train: (69260, 9)
+test: (69261, 9)
+train: (69260, 9)
+	speed: 1.9457s/iter; left time: 1383.3603s
+	speed: 1.3938s/iter; left time: 851.5826s
+Epoch: 1, Cost time: 1961.278s 
+	speed: 34.2190s/iter; left time: 15090.5643s
+	speed: 17.4562s/iter; left time: 5952.5783s
+Epoch: 2, Cost time: 6327.974s 
+test: (69261, 9)
+train: (69260, 9)
+test: (69261, 9)
+train: (69260, 9)
+test: (69261, 9)
+train: (69260, 9)
+test: (69261, 9)
+train: (69260, 9)
+Threshold : 0.8900555258989333
+pa_accuracy           : 0.9865
+pa_precision          : 0.4146
+pa_recall             : 0.6685
+pa_f_score            : 0.5118
+MCC_score             : 0.5202
+Affiliation precision : 0.5331
+Affiliation recall    : 0.9174
+R_AUC_ROC             : 0.6517
+R_AUC_PR              : 0.3801
+VUS_ROC               : 0.6483
+VUS_PR                : 0.3764
+Accuracy : 0.9865, Precision : 0.4146, Recall : 0.6685, F-score : 0.5118 
